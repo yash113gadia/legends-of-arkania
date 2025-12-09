@@ -1,0 +1,16 @@
+# Compiled executable
+legends_of_arkania
+
+# Object files
+*.o
+
+# Save files
+savegame.txt
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
